@@ -1,4 +1,4 @@
-# covid-viz
+# Covid-Data-Visualization
 
 ## Data
 - [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
@@ -10,7 +10,8 @@
 - **`Country_Region` VS. `Country/Region`**
 - I decided to choose `Country_Region` as the column name because:
   - Slash `/` has another meaning in math.
-  - Using `_` will let me to select entire words faster by double click.
+  - Using `_` will allow me to select entire words faster by double click.
+
 ![](img/cols.png)
 
 ### Country names inconsistency
@@ -18,11 +19,13 @@
 - **`Mainland China` VS. `China`**
 - **`South Korea`	VS. `Korea, South`**
 - I decided to choose `Taiwan`, `China` and `South Korea` as the consistent name.
+
 ![](img/china.png)
 
 ---
 
 ## References
+
 ### [用 Python + Flourish 輕鬆搞定超酷的數據可視化](https://zhuanlan.zhihu.com/p/123309549?utm_id=0)
 
 ### [Don’t Use Python OS Library Any More When Pathlib Can Do](https://towardsdatascience.com/dont-use-python-os-library-any-more-when-pathlib-can-do-141fefb6bdb5)
