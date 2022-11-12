@@ -6,13 +6,15 @@
 ---
 
 ## Notice
+
 ### Column names inconsistency
+
 - **`Country_Region` VS. `Country/Region`**
 - I decided to choose `Country_Region` as the column name because:
   - Slash `/` has another meaning in math.
   - Using `_` will allow me to select entire words faster by double click.
 
-![](img/cols.png)
+  <img src="img/cols.png" width="400"/>
 
 ### Country names inconsistency
 - **`Taiwan*` VS. `Taiwan`**
@@ -20,7 +22,7 @@
 - **`South Korea`	VS. `Korea, South`**
 - I decided to choose `Taiwan`, `China` and `South Korea` as the consistent name.
 
-![](img/china.png)
+  <img src="img/china.png" width="400"/>
 
 ---
 
