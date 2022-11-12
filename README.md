@@ -9,20 +9,21 @@
 
 ### Column names inconsistency
 
+<img src="img/cols.png" width="450"/>
+
 - **`Country_Region` VS. `Country/Region`**
 - I decided to choose `Country_Region` as the column name because:
   - Slash `/` has another meaning in math.
   - Using `_` will allow me to select entire words faster by double click.
 
-  <img src="img/cols.png" width="400"/>
-
 ### Country names inconsistency
+
+<img src="img/china.png" width="450"/>
+
 - **`Taiwan*` VS. `Taiwan`**
 - **`Mainland China` VS. `China`**
 - **`South Korea`	VS. `Korea, South`**
 - I decided to choose `Taiwan`, `China` and `South Korea` as the consistent name.
-
-  <img src="img/china.png" width="400"/>
 
 ---
 
