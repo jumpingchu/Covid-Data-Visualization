@@ -2,7 +2,7 @@
 
 ## Demo
 https://public.flourish.studio/visualisation/11812383/
-
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11812383"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Data
 - [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 
