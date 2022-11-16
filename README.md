@@ -40,3 +40,5 @@ https://public.flourish.studio/visualisation/11812383/
 ### [Pathlib vs. os.path.join in Python](https://stackoverflow.com/questions/67112343/pathlib-vs-os-path-join-in-python)
 - pathlib is the more modern way since Python 3.4. 
 - The documentation for pathlib says that "For low-level path manipulation on strings, you can also use the os.path module."
+
+### [Akshare 數據集](https://www.akshare.xyz/tutorial.html#id1)
