@@ -3,7 +3,7 @@
 ## Live Demo
 https://public.flourish.studio/visualisation/11812383/
 
-<img src="img/covid_viz.gif" width="600"/>
+<img src="img/covid_viz.gif" width="800"/>
 
 ## Technologies
 - Python
@@ -26,7 +26,7 @@ https://public.flourish.studio/visualisation/11812383/
 
 ### Column names inconsistency
 
-<img src="img/cols.png" width="450"/>
+<img src="img/cols.png" width="600"/>
 
 - **`Country_Region` VS. `Country/Region`**
 - I decided to choose `Country_Region` as the column name because:
@@ -35,7 +35,7 @@ https://public.flourish.studio/visualisation/11812383/
 
 ### Country names inconsistency
 
-<img src="img/china.png" width="450"/>
+<img src="img/china.png" width="600"/>
 
 - **`Taiwan*` VS. `Taiwan`**
 - **`Mainland China` VS. `China`**
