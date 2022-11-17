@@ -1,3 +1,4 @@
 data/
-.DS_Store
 owid-covid-data.csv
+.DS_Store
+__pycache__/
