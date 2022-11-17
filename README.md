@@ -3,7 +3,7 @@
 ## Live Demo
 https://public.flourish.studio/visualisation/11812383/
 
-<video src="img/covid_viz.mov" width="450"/>)
+<img src="img/covid_viz.gif" width="450"/>)
 
 ---
 
