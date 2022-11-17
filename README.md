@@ -42,3 +42,6 @@ https://public.flourish.studio/visualisation/11812383/
 - The documentation for pathlib says that "For low-level path manipulation on strings, you can also use the os.path module."
 
 ### [Akshare 數據集](https://www.akshare.xyz/tutorial.html#id1)
+
+### [Coronavirus Pandemic Data](https://ourworldindata.org/coronavirus)
+- For continent and population data
