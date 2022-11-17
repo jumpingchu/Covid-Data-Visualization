@@ -3,10 +3,25 @@
 ## Live Demo
 https://public.flourish.studio/visualisation/11812383/
 
-## Data
-- [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+<video src="img/covid_viz.mov" width="450"/>)
 
 ---
+
+## Technologies
+- Python
+- Flourish (No-code visualization service)
+
+## Dependencies
+- pandas
+- datefinder
+- tqdm
+
+## Data
+- [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+  - For confirmed covid data.
+
+- [Coronavirus Pandemic Data](https://ourworldindata.org/coronavirus)
+  - For continent data (for bar chart categories)
 
 ## Notice
 
@@ -31,17 +46,10 @@ https://public.flourish.studio/visualisation/11812383/
 ---
 
 ## References
-
-### [用 Python + Flourish 輕鬆搞定超酷的數據可視化](https://zhuanlan.zhihu.com/p/123309549?utm_id=0)
-
-### [Don’t Use Python OS Library Any More When Pathlib Can Do](https://towardsdatascience.com/dont-use-python-os-library-any-more-when-pathlib-can-do-141fefb6bdb5)
-- Pathlib is considered to be more advanced, convenient and provides more stunning features than the OS library.
-  
-### [Pathlib vs. os.path.join in Python](https://stackoverflow.com/questions/67112343/pathlib-vs-os-path-join-in-python)
-- pathlib is the more modern way since Python 3.4. 
-- The documentation for pathlib says that "For low-level path manipulation on strings, you can also use the os.path module."
-
-### [Akshare 數據集](https://www.akshare.xyz/tutorial.html#id1)
-
-### [Coronavirus Pandemic Data](https://ourworldindata.org/coronavirus)
-- For continent and population data
+- [用 Python + Flourish 輕鬆搞定超酷的數據可視化](https://zhuanlan.zhihu.com/p/123309549?utm_id=0)
+- [Don’t Use Python OS Library Any More When Pathlib Can Do](https://towardsdatascience.com/dont-use-python-os-library-any-more-when-pathlib-can-do-141fefb6bdb5)
+  - Pathlib is considered to be more advanced, convenient and provides more stunning features than the OS library.
+- [Pathlib vs. os.path.join in Python](https://stackoverflow.com/questions/67112343/pathlib-vs-os-path-join-in-python)
+  - pathlib is the more modern way since Python 3.4. 
+  - The documentation for pathlib says that "For low-level path manipulation on strings, you can also use the os.path module."
+- [Akshare 數據集](https://www.akshare.xyz/tutorial.html#id1)
