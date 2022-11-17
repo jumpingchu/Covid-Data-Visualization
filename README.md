@@ -5,8 +5,6 @@ https://public.flourish.studio/visualisation/11812383/
 
 <img src="img/covid_viz.gif" width="600"/>
 
----
-
 ## Technologies
 - Python
 - Flourish (No-code visualization service)
@@ -19,9 +17,10 @@ https://public.flourish.studio/visualisation/11812383/
 ## Data
 - [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
   - For confirmed covid data.
-
 - [Coronavirus Pandemic Data](https://ourworldindata.org/coronavirus)
   - For continent data (for bar chart categories)
+- [countryflags](https://www.countryflags.com/)
+  - For country flag urls
 
 ## Notice
 
@@ -42,8 +41,6 @@ https://public.flourish.studio/visualisation/11812383/
 - **`Mainland China` VS. `China`**
 - **`South Korea`	VS. `Korea, South`**
 - I decided to choose `Taiwan`, `China` and `South Korea` as the consistent name.
-
----
 
 ## References
 - [用 Python + Flourish 輕鬆搞定超酷的數據可視化](https://zhuanlan.zhihu.com/p/123309549?utm_id=0)
