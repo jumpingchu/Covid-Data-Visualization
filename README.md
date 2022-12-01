@@ -5,6 +5,9 @@ https://public.flourish.studio/visualisation/11812383/
 
 <img src="img/covid_viz.gif" width="800"/>
 
+## Tutorial
+- https://jumping-code.com/2022/11/19/data-visualization-flourish-bar-chart-race/
+
 ## Technologies
 - Python
 - Flourish (No-code visualization service)
